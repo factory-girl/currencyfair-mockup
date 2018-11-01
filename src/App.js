@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Header from './components/Header';
 import Summary from './components/Summary';
 import Transaction from './components/Transaction';
-import './App.css';
+import './styling/App.css';
 
 class App extends Component {
     constructor(props) {

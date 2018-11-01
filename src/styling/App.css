@@ -11,20 +11,20 @@ body, html {
   font-family: 'PostGrotesk-Bold';
   font-style: normal;
   font-weight: 400;
-  src: url('styling/fonts/PostGrotesk-Bold.ttf');
+  src: url('fonts/PostGrotesk-Bold.ttf');
 }
 
 @font-face {
   font-family: 'PostGrotesk-Book';
   font-style: normal;
   font-weight: 400;
-  src: url('styling/fonts/PostGrotesk-Book.ttf');
+  src: url('fonts/PostGrotesk-Book.ttf');
 }
 
 @font-face {
   font-family: 'PostGrotesk-Light';
   font-style: normal;
-  src: url('styling/fonts/PostGrotesk-Light.ttf');
+  src: url('fonts/PostGrotesk-Light.ttf');
 }
 
 ul {
